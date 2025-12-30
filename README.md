@@ -60,14 +60,14 @@ run_instructions:
       command: docker-compose down 
 ```
 ## Screenshots
-## Application Running
 <img width="1911" height="1018" alt="Application Running" src="https://github.com/user-attachments/assets/3a9ed849-b442-42f8-8850-5bf930f3cebc" />
+<img width="735" height="261" alt="Docker Images" src="https://github.com/user-attachments/assets/9396cf4d-97bb-49f7-b54f-4298b812f50a" />
 ## Docker Containers
 <img width="804" height="289" alt="Docker Containers" src="https://github.com/user-attachments/assets/d22ddf88-496f-434e-8286-139edde246c9" />
-## Docker Compose Execution
+
 <img width="1919" height="1017" alt="Docker Compose Execution" src="https://github.com/user-attachments/assets/bcec6873-aa90-4e45-accb-517360a1772f" /> 
-## Docker Images
-<img width="735" height="261" alt="Docker Images" src="https://github.com/user-attachments/assets/9396cf4d-97bb-49f7-b54f-4298b812f50a" />
+
+
 
 
 
