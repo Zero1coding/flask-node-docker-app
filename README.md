@@ -17,7 +17,7 @@ Both services are containerized using **Docker** and connected using **Docker Co
 
 ---
 
-## 📂Folder Structure
+## Folder Structure
 
 flask-node-docker-app/
 │
@@ -75,8 +75,6 @@ flask-node-docker-app/
 ### Step 1: Build Docker images
 ```bash
 docker-compose build
-
 docker-compose up
-
 http://localhost:3000
 docker-compose down
