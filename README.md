@@ -61,7 +61,7 @@ flask-node-docker-app/
 ---
 
 ## Run Instructions
-
+```md
 ```yaml
 run_instructions:
   prerequisites:
@@ -83,10 +83,14 @@ run_instructions:
 
     - Stop containers
       command: docker-compose down
-
+---
+## Screenshots
+```md
 <img width="1911" height="1018" alt="image" src="https://github.com/user-attachments/assets/3a9ed849-b442-42f8-8850-5bf930f3cebc" />
 
 <img width="804" height="289" alt="image" src="https://github.com/user-attachments/assets/d22ddf88-496f-434e-8286-139edde246c9" />
 <img width="735" height="261" alt="image" src="https://github.com/user-attachments/assets/9396cf4d-97bb-49f7-b54f-4298b812f50a" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/bcec6873-aa90-4e45-accb-517360a1772f" />
+
 
 
