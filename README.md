@@ -16,29 +16,6 @@ Both services are containerized using **Docker** and managed using **Docker Comp
 
 ---
 
-## Folder Structure
-flask-node-docker-app/
-│
-├── frontend/
-│ ├── server.js
-│ ├── package.json
-│ ├── Dockerfile
-│ ├── views/
-│ │ └── index.ejs
-│ └── .gitignore
-│
-├── backend/
-│ ├── app.py
-│ ├── requirements.txt
-│ ├── Dockerfile
-│ └── .gitignore
-│
-├── docker-compose.yml
-└── README.md
-
-
----
-
 ## Technologies Used
 
 - Node.js
@@ -61,27 +38,7 @@ flask-node-docker-app/
 ---
 ## Run Instructions
 
-```yaml
-run_instructions:
-  prerequisites:
-    - Docker installed and running
-    - Docker Compose available
 
-  steps:
-    - Navigate to project root directory
-      command: cd flask-node-docker-app
-
-    - Build Docker images
-      command: docker-compose build
-
-    - Start containers
-      command: docker-compose up
-
-    - Access application
-      url: http://localhost:3000
-
-    - Stop containers
-      command: docker-compose down
 ---
 ## Screenshots
 ## Application Running
@@ -92,3 +49,4 @@ run_instructions:
 <img width="735" height="261" alt="Docker Images" src="https://github.com/user-attachments/assets/9396cf4d-97bb-49f7-b54f-4298b812f50a" />
 ## Docker Compose Execution
 <img width="1919" height="1017" alt="Docker Compose Execution" src="https://github.com/user-attachments/assets/bcec6873-aa90-4e45-accb-517360a1772f" /> ```
+
